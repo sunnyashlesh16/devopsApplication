@@ -37,7 +37,7 @@ jobs:
         with:
           go-version: '1.23.1'
       - name: Code Quality
-        uses: golangci/golangci-lint-action@v2
+        uses: golangci/golangci-lint-action@v6
         with:
           version: v1.56.2
 
