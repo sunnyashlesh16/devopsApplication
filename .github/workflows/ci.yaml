@@ -1,5 +1,5 @@
 name: Continuous Integration
-
+##This is the CI part where there will be multiple stages can be added
 
 on:
   push:
